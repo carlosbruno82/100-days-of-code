@@ -34,6 +34,12 @@ VÍDEOS: 01 - 04
 ```
 VÍDEOS: 05 - 07
 
+### day-03
+```
+1- Exercícios do vídeo 07 incompleto
+```
+VÍDEOS: 07
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

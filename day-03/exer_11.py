@@ -1,6 +1,10 @@
-l = float(input('Digita a largura da parede: '))
-a = float(input('Digita a altura da parede: '))
-area = l * a
-tinta = 2**2 
-qtd_t = area / tinta
-print('Quantidade de lata para pintar a parede {:.0f}'.format(qtd_t))
+# Faça um programa que leia a largura e a altura de uma parede em metros,
+# calcule a sua área e a quantidade de tinta necessária para pintá-los, sabendo
+# que cada litro de tinta, pinta uma área de 2m².
+
+largura = float(input('Largura da parede: '))
+altura = float(input('Altura da parede: '))
+area = largura * altura
+tinta = area / 2 
+print('Sua parede tem a dimensão de {}x{} e sua área é de {}m².'.format(largura, altura, area))
+print('Para pintar essa parede, você pricisará de {}l de tinta.'.format(tinta))

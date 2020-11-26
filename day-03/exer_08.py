@@ -1,4 +1,7 @@
-n = float(input('Digite a quantidade de metros: '))
-c = n * 100
-m = n * 1000
-print('Valor convertido em centímetros {:.0f} e milímetros {:.0f}'.format(c, m))
+# Escreva um programa que leia um valor em metros e o exiba convertido
+#em centímetros e milimetros.
+
+medida = float(input('Uma distância em metros: '))
+cm = medida * 100
+mm = medida * 1000
+print('A média de {}m corresponde a {:.0f}cm e {:.0f}mm'.format(medida, cm, mm))

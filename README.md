@@ -59,6 +59,21 @@ VÍDEOS: 07
 ```
 VÍDEOS: 08
 
+### day-06
+```
+1- Exercícios do vídeo 08 Corrigidos
+2- Usando print com """ para texto longo em várias linhas.
+3- Manipulando Texto
+4- As principais operações são:
+    - Fatiamento de String: frase[3], frase[2:], frase[2:15], frase[2:15:2], frase[:21], frase[4::2], frase[:21:2]
+    - Análise com: len(), count(), find()
+    - Transformações com: replace(), upper(), lower(), capitalize(), title(), strip()
+    - Divisão com: split() - Transforma a string em uma lista. Usando por padrão o espaço como separador.  
+    - Junção com: join()
+5- Faltou fazer os exercícios do VÍDEO 09
+```
+VÍDEOS: 08 - 09
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

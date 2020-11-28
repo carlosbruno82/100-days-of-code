@@ -1,3 +1,5 @@
-from pygame import mixer
-soundObj = mixer.Sound('/home/bruno/Music/1.mp3')
-soundObj.play()
+from playsound import playsound
+
+mp3File = input("Enter a mp3 filename: ")
+# Play the mp3 file
+playsound(mp3File)

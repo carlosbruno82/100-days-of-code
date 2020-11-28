@@ -46,6 +46,19 @@ VÍDEOS: 07
 ```
 VÍDEOS: 07
 
+### day-05
+```
+1- Utilizando Módulos
+2- import math (referente os módulos de matemática)
+3- from math import sqrt (importa somente um módulo sqrt de math)
+4- from math import sqrt, floor (importa dois módulos de math)
+5- Biblioteca padrão do python: https://docs.python.org/pt-br/3.8/library/index.html
+6- PyPI - Indíce de pacotes extra (comunidade) do python: https://pypi.org/ 
+7- Instalar módulo externo com python3 no ubuntu: pip3 install emoji
+8- Não pude concluir o último exercício. Tive que levar o meu pai no hospital
+```
+VÍDEOS: 08
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

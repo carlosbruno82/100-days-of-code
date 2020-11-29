@@ -74,6 +74,13 @@ VÍDEOS: 08
 ```
 VÍDEOS: 08 - 09
 
+### day-07
+```
+1- Exercícios do VÍDEO 09 incompleto
+
+```
+
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

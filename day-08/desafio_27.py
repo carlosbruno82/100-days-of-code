@@ -8,4 +8,4 @@ ultimo_nome = nome_lista[-1]
 print("""Muito prazer em te conhecer!
 Seu primeiro nome é: {}
 Seu último nome é: {}
-""".format(primeiro_nome, ultimo_nome))
+""".format(primeiro_nome, ultimo_nome)) 

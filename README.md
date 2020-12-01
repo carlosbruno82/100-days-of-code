@@ -79,7 +79,14 @@ VÍDEOS: 08 - 09
 1- Exercícios do VÍDEO 09 incompleto
 
 ```
+VÍDEOS: 09
 
+### day-08
+```
+1- Exercícios do VÍDEO 09 - Completo
+
+```
+VÍDEOS: 09
 
 <div style="text-align: right">
 

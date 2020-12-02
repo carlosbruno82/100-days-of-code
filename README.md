@@ -100,7 +100,7 @@ VÍDEOS: 22 - 27
     - Condição simples - uma só condição: somente o "if".
     - Condição composta - Mais de uma condição: "if" e "else".
     - Condição significativa - é o "if" e "else" dentro do print.
-
+2- Exercícios do VÍDEO 10 - Completo
 ```
 
 <div style="text-align: right">

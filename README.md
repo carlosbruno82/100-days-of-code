@@ -94,6 +94,15 @@ VÍDEOS: 09
 ```
 VÍDEOS: 22 - 27
 
+### day-10
+```
+1- Condições (Parte 1)
+    - Condição simples - uma só condição: somente o "if".
+    - Condição composta - Mais de uma condição: "if" e "else".
+    - Condição significativa - é o "if" e "else" dentro do print.
+
+```
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

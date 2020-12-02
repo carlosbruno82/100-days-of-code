@@ -88,6 +88,12 @@ VÍDEOS: 09
 ```
 VÍDEOS: 09
 
+### day-09
+```
+1- Correção dos exercícios do VÍDEO 09
+```
+VÍDEOS: 22 - 27
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

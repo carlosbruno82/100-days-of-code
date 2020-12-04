@@ -1,10 +1,13 @@
+# Desenvolva um programa que leia o comprimento de três retas e diga 
+# ao usuário se elas podem ou não formar um triângulo.
+
 # | b - c | < a < b + c
 # | a - c | < b < a + c
 # | a - b | < c < a + b
 
-a = int(input('Primeira reta: '))
-b = int(input('Segunda reta: '))
-c = int(input('Terceira reta: '))
+a = float(input('Primeira reta: '))
+b = float(input('Segunda reta: '))
+c = float(input('Terceira reta: '))
 
 r1 = (b - c) < a < b + c
 r2 = (a - c) < b < a + c

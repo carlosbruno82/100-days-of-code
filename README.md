@@ -92,7 +92,7 @@ VÍDEOS: 09
 ```
 1- Correção dos exercícios do VÍDEO 09
 ```
-VÍDEOS: 22 - 27
+VÍDEOS: 09
 
 ### day-10
 ```
@@ -102,6 +102,18 @@ VÍDEOS: 22 - 27
     - Condição significativa - é o "if" e "else" dentro do print.
 2- Exercícios do VÍDEO 10 - Completo
 ```
+VÍDEOS: 10
+
+### day-11
+```
+1- Correção dos exercícios do VÍDEO 10
+2- Cores no Terminal
+    - Utilizar os códigos de escape sequence ANSI para configurar cores para 
+      os seus programas em Python. Veja como utilizar o código \033[m com 
+      todas as suas principais possibilidades.
+```
+VÍDEOS: 10 - 11
+
 
 <div style="text-align: right">
 

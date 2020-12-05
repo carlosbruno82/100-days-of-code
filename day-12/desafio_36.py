@@ -12,5 +12,5 @@ print('{} do salário: R$ {:.2f}'.format('30%', t))
 if p < t:
   print('O empréstimo poderá ser realizado.')
 elif p > t:
-  print('O empréstimo não poderá se realizado.')
+  print('O empréstimo não poderá se realizado. Maior que os "30%" do seu salário.')
 

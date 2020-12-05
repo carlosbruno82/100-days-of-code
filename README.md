@@ -123,6 +123,12 @@ VÍDEOS: 10 - 11
 ```
 VÍDEOS: 12
 
+### day-13
+```
+1- Exercícios incompletos
+```
+VÍDEOS: 12
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

@@ -114,6 +114,14 @@ VÍDEOS: 10
 ```
 VÍDEOS: 10 - 11
 
+### day-12
+```
+1- Condições Aninhadas
+    Nessa aula, vamos aprender como criar estruturas condicionais aninhadas, 
+    usando os comandos if.. elif.. else em programas Python.
+2- Exercícios incompletos
+```
+VÍDEOS: 12
 
 <div style="text-align: right">
 

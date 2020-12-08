@@ -141,6 +141,13 @@ VÍDEOS: 12
 ```
 VÍDEOS: 12
 
+### day-16
+```
+1- Exercícios completos
+```
+VÍDEOS: 12
+
+
 <div style="text-align: right">
 
 ~~Carlos Bruno~~ 🛰️

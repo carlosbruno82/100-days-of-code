@@ -147,6 +147,12 @@ VÍDEOS: 12
 ```
 VÍDEOS: 12
 
+### day-17
+```
+1- Correção dos exercícios - incompletos
+```
+VÍDEOS: 12
+
 
 <div style="text-align: right">
 

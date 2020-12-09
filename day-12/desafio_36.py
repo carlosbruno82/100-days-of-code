@@ -1,16 +1,18 @@
-c = float(input('Qual o valor da casa? '))
-s = float(input('Quanto você recebe por mês? '))
-a = int(input('Quantos anos pretende pagar a casa? '))
-t = s * 30 / 100
-p = c / (a * 12)
-print('Valor da casa: R$ {:.2f}'.format(c))
-print('Salário mensal: R$ {:.2f}'.format(s))
-print('Valor da prestação mensal: R$ {:.2f}'.format(p))
-print('{} do salário: R$ {:.2f}'.format('30%', t))
+# Escreva um programa para aprovar o empréstimo bancário para a compra 
+# de uma casa. Pergunte o valor da casa, o salário do comprador e em 
+# quantos anos ele vai pagar. A prestação mensal não pode exceder 30% 
+# do salário ou então o empréstimo será negado.
 
+casa = float(input('Valor da casa? R$ '))
+salario = float(input('Salário do comprador? R$ '))
+ano = int(input('Quantos anos de financiamento? '))
+trinta = salario * 30 / 100
+prestacao = casa / (ano * 12)
 
-if p < t:
-  print('O empréstimo poderá ser realizado.')
-elif p > t:
-  print('O empréstimo não poderá se realizado. Maior que os "30%" do seu salário.')
+print('Para pagar uma casa de R$ {:.2f} em {} anos a prestação será de R$ {:.2f}'.format(casa, ano, prestacao))
+
+if prestacao <= trinta:
+  print('Empréstimo pode ser CONCEDIDO!')
+else:
+  print('Empréstimo NEGADO!')
 
